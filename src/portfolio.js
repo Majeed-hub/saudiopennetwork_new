@@ -109,7 +109,8 @@ const skills = {
       title: "What Is Beckn Protocol?",
       fileName: "FullStackImg",
       skills: [
-        "The Beckn Protocol is an open, decentralized framework designed to facilitate real-time access to transportation services across various platforms. It serves as a foundational technology that enables seamless connectivity between different providers, creating an integrated ecosystem for mobility.",
+        "The Beckn Protocol is an open, decentralized framework designed to facilitate real-time access to transportation services across various platforms.",
+        " It serves as a foundational technology that enables seamless connectivity between different providers, creating an integrated ecosystem for mobility.",
       ],
       softwareSkills: [
         {
