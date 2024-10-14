@@ -26,7 +26,6 @@ export default function Greeting(props) {
               >
                 {greeting.subTitle}
               </p>
-              <SocialMedia theme={theme} />
               {/* <div className="portfolio-repo-btn-div">
                 <Button
                   text="⭐ Star Me On Github"
