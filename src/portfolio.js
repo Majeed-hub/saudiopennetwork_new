@@ -10,11 +10,7 @@ const seo = {
   title: "Saudi Open Network for Mobility",
   description:
     "create open and decentralized digital ecosystems with saudi open network for mobility",
-  og: {
-    title: "Kritagya Kumra Portfolio",
-    type: "website",
-    url: "https://beautiful-stroopwafel-1722a5.netlify.app/#/",
-  },
+
 };
 
 //Home Page
