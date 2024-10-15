@@ -16,7 +16,7 @@ const seo = {
 //Home Page
 const greeting = {
   title: "Revolutionizing Mobility in Saudi Arabia",
-  logo_name: "Saudi Open Network For Mobility",
+  logo_name: "Saudi Open Network ",
   nickname: "Based on beckn protocol",
   subTitle:
     "An Inclusive Decentralized Transport Network Powered by the Beckn Protocol",

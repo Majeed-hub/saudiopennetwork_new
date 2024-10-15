@@ -129,6 +129,9 @@
   .header li {
     float: left;
   }
+  /* .header .logo{
+    font-size: 1rem;
+  } */
   .header {
     display: flex;
     align-items: center;
@@ -145,4 +148,7 @@
   .header {
     font-size: 12px;
   }
+        .header .logo {
+          font-size: 1rem;
+        }
 }

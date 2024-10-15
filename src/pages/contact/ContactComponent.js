@@ -56,9 +56,7 @@ class Contact extends Component {
                 >
                   Our organization is active across various social media
                   platforms. Feel free to reach out to us, and we will respond
-                  within 24 hours. We are here to assist you with Machine
-                  Learning, Artificial Intelligence, React development, and
-                  Cloud Computing or Infrastructure solutions.
+                  within 24 hours.
                 </p>
                
               </div>
